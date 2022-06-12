@@ -4,13 +4,9 @@
   "description": "book store whith thosounds of books to buy",
   "main": "server.js",
   "scripts": {
-    "test": "jest",
     "start": "node server.js",
-    "watch": "nodemon server.js"
-  },
-  "repository": {
-    "booktype": "git",
-    "url": ""
+    "watch": "nodemon server.js",
+    "seeds":"node seeds/index.js"
   },
   "author": "",
   "license": "ISC",
