@@ -2,20 +2,19 @@
   "name": "online-book-store",
   "version": "1.0.0",
   "description": "book store whith thosounds of books to buy",
-  "engines":{
-    "node":"16.14.2"
+  "engines": {
+    "node": "16.14.2"
   },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "watch": "nodemon server.js",
-    "seeds":"node seeds/server.js"
+    "seeds": "node seeds/server.js"
   },
   "author": "",
   "license": "ISC",
   "homepage": "",
   "dependencies": {
-    "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
     "compression": "^1.7.4",
     "connect-session-sequelize": "^7.1.3",
