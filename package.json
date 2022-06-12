@@ -1,7 +1,10 @@
 {
   "name": "online-book-store",
-  "version": "16.14.2",
+  "version": "1.0.0",
   "description": "book store whith thosounds of books to buy",
+  "engines":{
+    "node":"16.14.2"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
