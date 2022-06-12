@@ -16,7 +16,7 @@
       crossorigin='anonymous'
     />
 
-    <title>The Book Store</title>
+    <title>The Book Around</title>
   </head>
 
   <body>
@@ -24,9 +24,9 @@
     
       {{!-- Navbar --}}
       
-      <nav class='navbar navbar-expand-lg navbar-dark bg-dark p-4'>
+      <nav class='navbar navbar-expand-lg navbar-dark bg-info p-4'>
         <a class='navbar-brand' href='/'>
-        <img src='../../assets/logo/mainpagelogo.png' alt='The Book Store'style='width: 150px;' height='150px' class='img-fluid'></a>
+        <img src='../../assets/logo/mainpagelogo.png' alt='The Book Around'style='width: 150px;' height='150px' class='img-fluid'></a>
         </a>
         <button
           class='navbar-toggler'
@@ -43,25 +43,25 @@
           {{#if loggedIn}}
           <ul class='navbar-nav' style='width:400px;>
             <li class='nav-item' '>
-              <a class='nav-link' href='/'
+              <a class='nav-link text-light' href='/'
                 >Home <span class='sr-only'>(current)</span></a
               >
             </li>
             <li class='nav-item'>
-              <a class='nav-link' href='/browse'>Browse</a>
+              <a class='nav-link text-light' href='/browse'>Browse</a>
             </li>
             <li class='nav-item'>
-              <a class='nav-link' href='/cart'>Cart</a>
+              <a class='nav-link text-light' href='/cart'>Cart</a>
             </li>
             <li class='nav-item'>
-              <a class='nav-link' href='/logout' id='logout'>Log out</a>
+              <a class='nav-link text-light' href='/logout' id='logout'>Log out</a>
             </li>
           </ul>
           
         </div>
 <div class="input-group">
-  <input id="searchInput" type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
-  <button type="button" class="btn btn-outline-primary" id="search">search</button>
+  <input id="searchInput" type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon"/>
+  <button type="button" class="btn btn-outline-dark" id="search">search</button>
 </div>
 {{/if}}
       </nav>  {{!-- /Navbar --}}
@@ -74,8 +74,8 @@
     </div>  {{!-- /Container --}}
 
     <br>
-    <footer class='footer bg-dark text-light p-4' style='text-align: center; justify-content: center;'>
-      The Book Store 2022 @ ALL RIGHTS RESERVED
+    <footer class='footer bg-info text-light p-4' style='text-align: center; justify-content: center;'>
+      The Book Around 2022 @ ALL RIGHTS RESERVED
     </footer>
 
     <!-- jQuery -->
