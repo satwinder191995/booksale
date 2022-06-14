@@ -143,4 +143,4 @@ VALUES
          'Island Summer',
          'https://m.media-amazon.com/images/I/91-WNV-lYYL.jpg',
          20.99
-    ),
+    )

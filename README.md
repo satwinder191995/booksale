@@ -1,8 +1,8 @@
- # Tech blog [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
+ # The Book Around [![badge](https://img.shields.io/badge/license-MIT-brightgreen)](./LICENSE)
 
   ## Description
 
-    The book shop is a full stack web application where customers can register, browse and buy 
+    The book around is a full stack web application where customers can register, browse and buy 
     books at cheaper prices
 
   ## Table of Contents
@@ -33,7 +33,7 @@ For more information on license types, please reference to this website for addi
 
   ## Contributing
 
-  Satwinder Singh<br>
+  Satwinder Singh<br>Rajendra patel <br> Cory Sillaots <br> Nate 
   
   ## Tests
 
@@ -41,12 +41,14 @@ For more information on license types, please reference to this website for addi
 
   ## Questions?
 
-  Feel free to contact me with example or any question via the information below:
+  Feel free to contact us with example or any question via the information below:
  * Find me on Github:[satwinder191995](https://github.com/satwinder191995)
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
+ * Find me on Github:[patel-rajendra](https://github.com/patel-rajendra)
+ * Email me with any questions: [patelraj112@gmail.com](mailto:patelraj112@gmail.com)
 
   ## Website design image
   ![This is website image](/public/images/blog.png)
 
   ## Heroku live app link
-  [Heroku app link](https://satwinder-blog.herokuapp.com/)
+  [Heroku app link](https://floating-reef-77198.herokuapp.com/)
