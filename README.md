@@ -42,13 +42,12 @@ For more information on license types, please reference to this website for addi
   ## Questions?
 
   Feel free to contact us with example or any question via the information below:
- * Find me on Github:[satwinder191995](https://github.com/satwinder191995)
- * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
- * Find me on Github:[patel-rajendra](https://github.com/patel-rajendra)
- * Email me with any questions: [patelraj112@gmail.com](mailto:patelraj112@gmail.com)
+  * Find us on Github:[Boostore](https://github.com/TheBookStore05/bookaround.git)
+ * Email us with any questions: [bookstoregroup05@gmail.com](bookstoregroup05@gmail.com)
+
 
   ## Website design image
-  ![This is website image](/public/images/blog.png)
+  ![This is website image](/public/images/book.png)
 
   ## Heroku live app link
   [Heroku app link](https://floating-reef-77198.herokuapp.com/)
