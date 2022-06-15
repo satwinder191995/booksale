@@ -112,7 +112,7 @@ $(document).ready(() => {
                     // let td2 = $('<td>');
                     let td3 = $('<td>');
                     let td4 = $('<td>');
-                    let td5 = $('<button id="delete" cartId="'+cart.id+'">Delete</button>')
+                    let td5 = $('<button class="btn btn-danger" id="delete" cartId="'+cart.id+'">Delete</button>')
                     console.log(cart);
                     // td0.text(cart.id);
                     td1.text(cart.UserId);

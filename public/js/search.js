@@ -26,7 +26,7 @@ fetch(`https://amazon-kindle-scraper.p.rapidapi.com/search/${val}?api_key=bc09e2
               var price = book.price;
             }
             let card = `  
-        <div class="col-2" >
+        <div class="col-4 col-md-2 my-4" >
             <img src="${book.image}" class="card-img-top h-50" alt="${book.name} book image" />
             <div class="card-body" style="height:140px;">
                 <h6 class="card-title overflow-auto" style="height:50px;">${book.name}</h5>

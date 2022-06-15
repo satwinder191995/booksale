@@ -12,11 +12,11 @@ function booksLoad (){
             // Create the book cards
             books.forEach((book) => {
                 let card = `
-            <div class="col-2">
+            <div class="col-4 col-md-2">
                 <img src="${book.bookimage}" class="card-img-top h-50" alt="${book.bookname} book image" />
                 <div class="card-body" style="height:140px;">
                     <h6 class="card-title"><a href="#" class="modalTrigger" bookName="${book.bookname}">${book.bookname}</a></h5>
-                    <p class="card-text">
+                    <p class="card-text h-sm-25">
                      Price: ${book.price}
                     </p>
                 </div>
@@ -42,7 +42,7 @@ function booksLoad (){
                     // Create the book cards
                     books.forEach((book) => {
                         let card = `
-                    <div class="col-2">
+                    <div class="col-4 col-md-2">
                         <img src="${book.bookimage}" class="card-img-top h-50" alt="${book.bookname} book image" />
                         <div class="card-body" style="height:140px;">
                             <h6 class="card-title"><a href="#" class="modalTrigger" bookName="${book.bookname}">${book.bookname}</a></h5>
@@ -71,7 +71,7 @@ function booksLoad (){
                     // Create the book cards
                     books.forEach((book) => {
                         let card = `
-                    <div class="col-2">
+                    <div class="col-4 col-md-2">
                         <img src="${book.bookimage}" class="card-img-top h-50" alt="${book.bookname} book image" />
                         <div class="card-body" style="height:140px;">
                             <h6 class="card-title"><a href="#" class="modalTrigger" bookName="${book.bookname}">${book.bookname}</a></h5>
