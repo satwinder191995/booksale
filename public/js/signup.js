@@ -63,7 +63,7 @@ async function signupFormHandler(event) {
     if (response.ok) {
       document.location.replace('/home');
     } else {
-      alert(response.statusText);
+      alert("User account already taken, Try again");
     }
   }
 }
