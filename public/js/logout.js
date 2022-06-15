@@ -5,9 +5,9 @@ async function logout() {
   });
 
   if (response.ok) {
-    window.location.replace("/");
+    window.location.replace("/login");
   } else {
-    alert(response.statusText);
+    window.location.replace("/login");
   }
 }
 
