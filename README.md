@@ -42,8 +42,8 @@ For more information on license types, please reference to this website for addi
   ## Questions?
 
   Feel free to contact us with example or any question via the information below:
-  * Find us on Github:[Boostore](https://github.com/TheBookStore05/bookaround.git)
- * Email us with any questions: [bookstoregroup05@gmail.com](bookstoregroup05@gmail.com)
+  * Find us on Github:[Boostore](https://github.com/satwinder191995)
+ * Email us with any questions: [satwinder191995@outlook.com](satwinder191995@outlook.com)
 
 
   ## Website design image
