@@ -2,7 +2,7 @@
 
   ## Description
 
-    The book around is a full stack web application where customers can register, browse and buy books at cheaper prices
+    The book sale is a full stack web application where customers can register, browse and buy books at cheaper prices
 
   ## Table of Contents
   - [Description](#description)
