@@ -33,7 +33,7 @@ For more information on license types, please reference to this website for addi
 
   ## Contributing
 
-  Satwinder Singh<br>Rajendra patel <br> Cory Sillaots <br> Nate 
+  Satwinder Singh
   
   ## Tests
 
